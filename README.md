@@ -1,3 +1,4 @@
+
 # Hello.World
 Hello World Console App with Web API
 
@@ -25,6 +26,8 @@ The Hello World Application consists of:
 
 To run this application:
 
+	After opening the solution, make sure you restore the Nuget packages.
+	
 	Set the Hello.World.Api project as the startup project.
 
 	Build, and then run the project.
